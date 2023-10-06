@@ -1,0 +1,8 @@
+.vscode/
+.pytest_cache/
+__pycache__/
+.venv/
+example.txt
+.DS_Store
+.coverage
+# yes, not actually checking this in anywhere, but its good practice to have it here
